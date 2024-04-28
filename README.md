@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtmoReis&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
-## Codar é um modo de pensar
+## Qualidade é uma Cultura !
 <div style="display: flex; justify-content: space-between;"> <br>
   <img align="left"height="150" alt="coding-time" src="code.gif">
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +19,7 @@
 
 ## Redes sociais
 <div>
-
+  </a>
   <a href = "https://www.linkedin.com/in/etmo-reis-bb46bb26a/"
     <img width="25" src="linkedin.svg">
   </a>
