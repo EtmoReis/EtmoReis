@@ -3,8 +3,7 @@
 
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rhswire&theme=bear&background=7E1D8E&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EtmoReis&bg_color=7E1D8E&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
 
 
