@@ -1,4 +1,4 @@
-## Étmo Reis ,Tester ON :eyes::mag::beetle:
+## Étmo Reis ,Aprender é geek, desistir é weak! 🚀💡 :eyes::mag::beetle:
 
 
 
